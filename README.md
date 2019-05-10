@@ -4,4 +4,4 @@ wget -N --no-check-certificate https://github.com/SailorChina/SS-PANEL-API/maste
 
 
 API对接
-wget -N --no-check-certificate https://github.com/SailorChina/SS-PANEL-API/master/node.sh && chmod +x node.sh && ./node.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/SailorChina/SS-PANEL-API/master/node.sh && chmod +x node.sh && ./node.sh
